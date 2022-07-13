@@ -1,2 +1,2 @@
 # HTML &amp; CSS Practice
-Reviewing and practicing modern HTML &amp; CSS by creating websites.
+Reviewing and practicing modern HTML &amp; CSS by creating responsive websites.
