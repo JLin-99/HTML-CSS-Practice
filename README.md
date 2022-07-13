@@ -1,2 +1,2 @@
-# HTML-CSS-Practice
-Building websites to practice HTML &amp; CSS
+# HTML &amp; CSS Practice
+Reviewing and practicing modern HTML &amp; CSS by creating websites.
